@@ -1,8 +1,8 @@
-# CMPT276-SoloAssignments
+# CMPT276-Assignment1
 Histogram Based on Grades
 
 
-CMPT 276 Assignment 1 and Assignment 2
+CMPT 276 Assignment 1
 
 Heroku ruby-getting_started Public Folder Files
 
